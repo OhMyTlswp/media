@@ -1,0 +1,30 @@
+@font-face { 
+ font-family: 'Jura'; 
+ src: url('jura-regular.ttf') format('truetype');
+ font-style: normal; 
+}
+@font-face { 
+ font-family: 'Exo2'; 
+ src: url('Exo2-Regular.ttf') format('truetype');
+ font-style: normal; 
+}
+@font-face { 
+ font-family: 'RussoOne'; 
+ src: url('RussoOne-Regular.ttf') format('truetype');
+ font-style: normal; 
+}
+@font-face { 
+ font-family: 'PoiretOne'; 
+ src: url('PoiretOne-Regular.ttf') format('truetype');
+ font-style: normal;
+}
+@font-face { 
+ font-family: 'MontserratAlternates'; 
+ src: url('MontserratAlternates-Regular.ttf') format('truetype');
+ font-style: normal; 
+}
+@font-face { 
+ font-family: 'SourceSansPro'; 
+ src: url('SourceSansPro-Light.ttf') format('truetype');
+ font-style: normal; 
+}
